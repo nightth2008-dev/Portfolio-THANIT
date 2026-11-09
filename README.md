@@ -1,2 +1,2 @@
 # Portfolio-THANIT  
-[ปก])[cover.md]
+[cover])[cover.md] 
