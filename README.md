@@ -1,2 +1,2 @@
 # Portfolio-THANIT  
-[cover])[cover.md] 
+[cover.md])[cover.md] 
